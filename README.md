@@ -1,2 +1,2 @@
-# NNandCV
-Курс на  stepic от samsung 
+##### NNandCV
+## Курс на  stepic от samsung 
